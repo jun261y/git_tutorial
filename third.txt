@@ -1,15 +1,11 @@
 1 minute ago
 Type	Name	Latest commit message	Commit time
-first.txt	git study...	yesterday
+first.txt		yesterday
 second.txt	modified	1 minute ago
 third.txt
 
 afasfasdafafasfasfasafa
 f
-as
-fas
-f
-as
-fas
+
 
 fasf
