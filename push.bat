@@ -1,4 +1,4 @@
-git add -u
+git add .
 git status
 
 set str= 
