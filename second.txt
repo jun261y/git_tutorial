@@ -5,3 +5,16 @@ This is the 1st sentence written in 2nd-branch.
 
 
 remote 2nd branch 에서 직접 수정수정수정
+
+
+
+print('1st')
+print("Why don't you answer me, git?")
+
+print('2nd')
+print("This is the 1st sentence written in 2nd-branch.")
+
+print('3rd')
+print('4th')
+
+Clone 다시
