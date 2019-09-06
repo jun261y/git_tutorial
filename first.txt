@@ -8,3 +8,6 @@ print(“Hi, git!!”)
 그리고 명령창에서 git status를 실행한다. 무슨 일을 하는지 잊어버리지는 않았을 것이다.
 
 branch 기초
+
+
+This is the 1st sentence written in 3rd-branch
