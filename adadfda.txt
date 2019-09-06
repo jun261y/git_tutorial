@@ -12,3 +12,6 @@ git push origin masger
 
 
 afafafafasfasfafafa
+
+
+remote direct editing 가져가봐~~~~
