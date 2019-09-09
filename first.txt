@@ -15,3 +15,7 @@ test git add .
 
 
 Desired sentence in 2nd-branch
+
+
+print("This is the 2nd sentence written in 2nd-branch.")
+
